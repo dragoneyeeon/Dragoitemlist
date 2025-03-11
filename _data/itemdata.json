@@ -21820,7 +21820,7 @@
     "KarmaType": null
   },
   "DankPyon_Headgear_Hood": {
-    "CustomName": null,
+    "CustomName": "hoodd",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,

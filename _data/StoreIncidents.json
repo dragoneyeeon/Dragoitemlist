@@ -1,18 +1,8 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
-		"price": 400,
+		"price": 200,
 		"karmatype": "Good"
 	},
 	{
@@ -42,12 +32,12 @@
 	},
 	{
 		"abr": "snowgentle",
-		"price": 350,
+		"price": 5000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "snowhard",
-		"price": 450,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -102,7 +92,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 1,
 		"karmatype": "Bad"
 	},
 	{
@@ -171,11 +161,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "shipchunkdrop",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "travelergroup",
 		"price": 80,
 		"karmatype": "Good"
@@ -198,16 +183,6 @@
 	{
 		"abr": "alphabeavers",
 		"price": 600,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpoison",
-		"price": 1900,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpsychic",
-		"price": 2400,
 		"karmatype": "Bad"
 	},
 	{
@@ -307,7 +282,7 @@
 	},
 	{
 		"abr": "randominspire",
-		"price": 450,
+		"price": 250,
 		"karmatype": "Good"
 	},
 	{
@@ -337,7 +312,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -357,7 +332,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 1200,
+		"price": 2000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -367,12 +342,12 @@
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removepassion",
-		"price": 5000,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -426,5 +401,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 85
+	"total": 80
 }

@@ -12,6 +12,12 @@
     "version": "2.3.1.0"
   },
   {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "11.0.4"
+  },
+  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
@@ -34,6 +40,12 @@
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
     "version": "1.5.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Andreas Pardeike",
@@ -80,18 +92,6 @@
   {
     "author": "vin",
     "name": "Adaptive Primitive Storage",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "11.0.4"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
     "steamId": null,
     "version": null
   },
@@ -998,6 +998,24 @@
   {
     "author": "Evil Eye Guy",
     "name": "Medieval Overhaul: Adaptive Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Majestic Foliage - Comigo's Original (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Majestic Foliage Framework[HH] (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Majestic Foliage - Djeeshka's CMT Retexture (Continued)",
     "steamId": null,
     "version": null
   }

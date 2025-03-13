@@ -112,7 +112,7 @@
       "abr": "doublebed",
       "category": "Furniture",
       "defname": "DoubleBed",
-      "price": 292
+      "price": -10
     },
     {
       "abr": "royalbed",
@@ -1318,7 +1318,7 @@
       "abr": "alphabeaver",
       "category": "Animals",
       "defname": "Alphabeaver",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "pig",
@@ -2953,84 +2953,6 @@
       "price": 3
     },
     {
-      "abr": "bookshelf",
-      "category": "Furniture",
-      "defname": "ReelStorageBookshelf",
-      "price": 275
-    },
-    {
-      "abr": "haybale",
-      "category": "Furniture",
-      "defname": "ReelStorageHayBale",
-      "price": 82
-    },
-    {
-      "abr": "largestonepile",
-      "category": "Furniture",
-      "defname": "ReelStorageLargeStonePile",
-      "price": 617
-    },
-    {
-      "abr": "largechest",
-      "category": "Furniture",
-      "defname": "ReelStorageLargeWoodChest",
-      "price": 104
-    },
-    {
-      "abr": "logpile",
-      "category": "Furniture",
-      "defname": "ReelStorageLargeWoodPile",
-      "price": 608
-    },
-    {
-      "abr": "stonepile",
-      "category": "Furniture",
-      "defname": "ReelStorageStonePile",
-      "price": 153
-    },
-    {
-      "abr": "tanningrack",
-      "category": "Furniture",
-      "defname": "ReelStorageTanningRack",
-      "price": 154
-    },
-    {
-      "abr": "weaponrack",
-      "category": "Furniture",
-      "defname": "ReelStorageWeaponRack",
-      "price": 172
-    },
-    {
-      "abr": "winerack",
-      "category": "Furniture",
-      "defname": "ReelStorageWineRack",
-      "price": 72
-    },
-    {
-      "abr": "chest",
-      "category": "Furniture",
-      "defname": "ReelStorageWoodChest",
-      "price": 52
-    },
-    {
-      "abr": "crate",
-      "category": "Furniture",
-      "defname": "ReelStorageWoodCrate",
-      "price": -10
-    },
-    {
-      "abr": "logs",
-      "category": "Furniture",
-      "defname": "ReelStorageWoodPile",
-      "price": 203
-    },
-    {
-      "abr": "meathook",
-      "category": "Furniture",
-      "defname": "ReelStorageMeatHook",
-      "price": 173
-    },
-    {
       "abr": "bigshelf",
       "category": "Furniture",
       "defname": "LWM_BigShelf",
@@ -3599,102 +3521,6 @@
       "category": "Furniture",
       "defname": "DankPyon_Lecturn",
       "price": 86
-    },
-    {
-      "abr": "militarybladeschematics(deprecated)",
-      "category": "Books",
-      "defname": "DankPyon_Book_MilitaryBlades",
-      "price": 833
-    },
-    {
-      "abr": "noblebladeschematics(deprecated)",
-      "category": "Books",
-      "defname": "DankPyon_Book_NobleBlades",
-      "price": 2000
-    },
-    {
-      "abr": "militarymaceschematics(deprecated)",
-      "category": "Books",
-      "defname": "DankPyon_Book_MilitaryMaces",
-      "price": 833
-    },
-    {
-      "abr": "noblemaceschematics(deprecated)",
-      "category": "Books",
-      "defname": "DankPyon_Book_NobleMaces",
-      "price": 1667
-    },
-    {
-      "abr": "militarypolearmschematics(deprecated)",
-      "category": "Books",
-      "defname": "DankPyon_Book_MilitaryPolearms",
-      "price": 833
-    },
-    {
-      "abr": "noblepolearmschematics(deprecated)",
-      "category": "Books",
-      "defname": "DankPyon_Book_NoblePolearms",
-      "price": 1667
-    },
-    {
-      "abr": "crossbowschematics(deprecated)",
-      "category": "Books",
-      "defname": "DankPyon_Book_Crossbow",
-      "price": 1000
-    },
-    {
-      "abr": "arbalestschematics(deprecated)",
-      "category": "Books",
-      "defname": "DankPyon_Book_HeavyCrossbow",
-      "price": 2000
-    },
-    {
-      "abr": "metallurgyschematics(deprecated)",
-      "category": "Books",
-      "defname": "DankPyon_Book_Steel",
-      "price": 1167
-    },
-    {
-      "abr": "blackpowderschematics(deprecated)",
-      "category": "Books",
-      "defname": "DankPyon_Book_Gunpowder",
-      "price": 2000
-    },
-    {
-      "abr": "tarschematics(deprecated)",
-      "category": "Books",
-      "defname": "DankPyon_Book_Tar",
-      "price": 2000
-    },
-    {
-      "abr": "greatbowschematics(deprecated)",
-      "category": "Books",
-      "defname": "DankPyon_Book_GreatBow",
-      "price": 1083
-    },
-    {
-      "abr": "warbowschematics(deprecated)",
-      "category": "Books",
-      "defname": "DankPyon_Book_WarBow",
-      "price": 2000
-    },
-    {
-      "abr": "intermediatecookingschematics(deprecated)",
-      "category": "Books",
-      "defname": "DankPyon_Book_IntermediateCooking",
-      "price": 1000
-    },
-    {
-      "abr": "advancedcookingschematics(deprecated)",
-      "category": "Books",
-      "defname": "DankPyon_Book_AdvancedCooking",
-      "price": 2000
-    },
-    {
-      "abr": "ballistarepeaterschematics(deprecated)",
-      "category": "Books",
-      "defname": "DankPyon_Book_BallistaRepeater",
-      "price": 4167
     },
     {
       "abr": "emptymilkjar",
@@ -9469,72 +9295,6 @@
       "price": 217
     },
     {
-      "abr": "foodbasket",
-      "category": "Furniture",
-      "defname": "ASF_Basket",
-      "price": 270
-    },
-    {
-      "abr": "bigshelf",
-      "category": "Furniture",
-      "defname": "ASF_BigShelf",
-      "price": -10
-    },
-    {
-      "abr": "bigsingleshelf",
-      "category": "Furniture",
-      "defname": "ASF_BigSShelf",
-      "price": -10
-    },
-    {
-      "abr": "clothingrack",
-      "category": "Furniture",
-      "defname": "ASF_ClothingRack",
-      "price": 170
-    },
-    {
-      "abr": "hayloft",
-      "category": "Furniture",
-      "defname": "ASF_Hayloft",
-      "price": -10
-    },
-    {
-      "abr": "meathook",
-      "category": "Furniture",
-      "defname": "ASF_MeatHook",
-      "price": 254
-    },
-    {
-      "abr": "medicinecabinet",
-      "category": "Furniture",
-      "defname": "ASF_MedCab",
-      "price": 203
-    },
-    {
-      "abr": "skip",
-      "category": "Furniture",
-      "defname": "ASF_Skip",
-      "price": -10
-    },
-    {
-      "abr": "mealtrayrack",
-      "category": "Furniture",
-      "defname": "ASF_TrayRack",
-      "price": 255
-    },
-    {
-      "abr": "tallshelf",
-      "category": "Furniture",
-      "defname": "ASF_VeryBigShelf",
-      "price": -10
-    },
-    {
-      "abr": "tallsingleshelf",
-      "category": "Furniture",
-      "defname": "ASF_VeryBigSShelf",
-      "price": -10
-    },
-    {
       "abr": "basket",
       "category": "Furniture",
       "defname": "ASNeolithicBasketWoody",
@@ -13297,22 +13057,10 @@
       "price": 126
     },
     {
-      "abr": "animalfeeder",
-      "category": "Furniture",
-      "defname": "ReelStorageAnimalFeeder",
-      "price": 208
-    },
-    {
       "abr": "ballisticglass",
       "category": "Manufactured",
       "defname": "RB_BallisticGlass",
       "price": -10
-    },
-    {
-      "abr": "barrel",
-      "category": "Furniture",
-      "defname": "ReelStorageBarrel",
-      "price": 171
     },
     {
       "abr": "barrel",
@@ -13324,7 +13072,7 @@
       "abr": "barrelpile",
       "category": "Furniture",
       "defname": "JDS_Wooden_Barrel_Pile",
-      "price": 675
+      "price": -10
     },
     {
       "abr": "basicsubcore",
@@ -13519,12 +13267,6 @@
       "price": -10
     },
     {
-      "abr": "cratestack",
-      "category": "Furniture",
-      "defname": "ReelStorageLargeWoodCrate",
-      "price": -10
-    },
-    {
       "abr": "druglab",
       "category": "Production",
       "defname": "DrugLab",
@@ -13558,12 +13300,6 @@
       "abr": "glowpod",
       "category": "Special",
       "defname": "GlowPod",
-      "price": -10
-    },
-    {
-      "abr": "hampers",
-      "category": "Furniture",
-      "defname": "ASF_FabricHamper",
       "price": -10
     },
     {
@@ -13672,12 +13408,6 @@
       "abr": "pallet",
       "category": "Furniture",
       "defname": "JDSPallet",
-      "price": -10
-    },
-    {
-      "abr": "pallet",
-      "category": "Furniture",
-      "defname": "ASF_Pallet",
       "price": -10
     },
     {
@@ -13903,16 +13633,190 @@
       "price": -10
     },
     {
-      "abr": "weaponscabinet",
-      "category": "Furniture",
-      "defname": "ASF_WeaponsCabinet",
-      "price": -10
-    },
-    {
       "abr": "wheelbarrow",
       "category": "Furniture",
       "defname": "JDSwheelbarrow",
       "price": -10
+    },
+    {
+      "abr": "animalfeeder",
+      "category": "Furniture",
+      "defname": "ReelStorageAnimalFeeder",
+      "price": 208
+    },
+    {
+      "abr": "barrel",
+      "category": "Furniture",
+      "defname": "ReelStorageBarrel",
+      "price": 171
+    },
+    {
+      "abr": "bigshelf",
+      "category": "Furniture",
+      "defname": "ASF_BigShelf",
+      "price": 224
+    },
+    {
+      "abr": "bigsingleshelf",
+      "category": "Furniture",
+      "defname": "ASF_BigSShelf",
+      "price": 110
+    },
+    {
+      "abr": "bookshelf",
+      "category": "Furniture",
+      "defname": "ReelStorageBookshelf",
+      "price": 275
+    },
+    {
+      "abr": "chest",
+      "category": "Furniture",
+      "defname": "ReelStorageWoodChest",
+      "price": 52
+    },
+    {
+      "abr": "clothingrack",
+      "category": "Furniture",
+      "defname": "ASF_ClothingRack",
+      "price": 170
+    },
+    {
+      "abr": "crate",
+      "category": "Furniture",
+      "defname": "ReelStorageWoodCrate",
+      "price": 206
+    },
+    {
+      "abr": "cratestack",
+      "category": "Furniture",
+      "defname": "ReelStorageLargeWoodCrate",
+      "price": 825
+    },
+    {
+      "abr": "foodbasket",
+      "category": "Furniture",
+      "defname": "ASF_Basket",
+      "price": 270
+    },
+    {
+      "abr": "hampers",
+      "category": "Furniture",
+      "defname": "ASF_FabricHamper",
+      "price": 383
+    },
+    {
+      "abr": "haybale",
+      "category": "Furniture",
+      "defname": "ReelStorageHayBale",
+      "price": 82
+    },
+    {
+      "abr": "hayloft",
+      "category": "Furniture",
+      "defname": "ASF_Hayloft",
+      "price": 287
+    },
+    {
+      "abr": "largechest",
+      "category": "Furniture",
+      "defname": "ReelStorageLargeWoodChest",
+      "price": 104
+    },
+    {
+      "abr": "largestonepile",
+      "category": "Furniture",
+      "defname": "ReelStorageLargeStonePile",
+      "price": 617
+    },
+    {
+      "abr": "logpile",
+      "category": "Furniture",
+      "defname": "ReelStorageLargeWoodPile",
+      "price": 608
+    },
+    {
+      "abr": "logs",
+      "category": "Furniture",
+      "defname": "ReelStorageWoodPile",
+      "price": 203
+    },
+    {
+      "abr": "mealtrayrack",
+      "category": "Furniture",
+      "defname": "ASF_TrayRack",
+      "price": 255
+    },
+    {
+      "abr": "meathook",
+      "category": "Furniture",
+      "defname": "ReelStorageMeatHook",
+      "price": 173
+    },
+    {
+      "abr": "meathook",
+      "category": "Furniture",
+      "defname": "ASF_MeatHook",
+      "price": 254
+    },
+    {
+      "abr": "medicinecabinet",
+      "category": "Furniture",
+      "defname": "ASF_MedCab",
+      "price": 203
+    },
+    {
+      "abr": "pallet",
+      "category": "Furniture",
+      "defname": "ASF_Pallet",
+      "price": 220
+    },
+    {
+      "abr": "skip",
+      "category": "Furniture",
+      "defname": "ASF_Skip",
+      "price": 305
+    },
+    {
+      "abr": "stonepile",
+      "category": "Furniture",
+      "defname": "ReelStorageStonePile",
+      "price": 153
+    },
+    {
+      "abr": "tallshelf",
+      "category": "Furniture",
+      "defname": "ASF_VeryBigShelf",
+      "price": 550
+    },
+    {
+      "abr": "tallsingleshelf",
+      "category": "Furniture",
+      "defname": "ASF_VeryBigSShelf",
+      "price": 277
+    },
+    {
+      "abr": "tanningrack",
+      "category": "Furniture",
+      "defname": "ReelStorageTanningRack",
+      "price": 154
+    },
+    {
+      "abr": "weaponrack",
+      "category": "Furniture",
+      "defname": "ReelStorageWeaponRack",
+      "price": 172
+    },
+    {
+      "abr": "weaponscabinet",
+      "category": "Furniture",
+      "defname": "ASF_WeaponsCabinet",
+      "price": 254
+    },
+    {
+      "abr": "winerack",
+      "category": "Furniture",
+      "defname": "ReelStorageWineRack",
+      "price": 72
     },
     {
       "abr": "replicator-prototyp",
@@ -13924,7 +13828,7 @@
       "abr": "mountains-emiter",
       "category": "Misc",
       "defname": "MountainsEmiter",
-      "price": -10
+      "price": 2792
     },
     {
       "abr": "tectonic-emiter",
@@ -13942,13 +13846,13 @@
       "abr": "mineral-emiter",
       "category": "Misc",
       "defname": "MineralEmiter",
-      "price": -10
+      "price": 2792
     },
     {
       "abr": "rock-emiter",
       "category": "Misc",
       "defname": "RockEmiter",
-      "price": -10
+      "price": 2792
     },
     {
       "abr": "terrain-emiter",
@@ -13960,8 +13864,8 @@
       "abr": "weather-emiter",
       "category": "Misc",
       "defname": "WeatherEmiter",
-      "price": -10
+      "price": 2792
     }
   ],
-  "total": 2327
+  "total": 2311
 }

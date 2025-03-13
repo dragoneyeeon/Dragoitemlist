@@ -103,12 +103,6 @@
       "price": 1967
     },
     {
-      "abr": "bed",
-      "category": "Furniture",
-      "defname": "Bed",
-      "price": -10
-    },
-    {
       "abr": "doublebed",
       "category": "Furniture",
       "defname": "DoubleBed",

@@ -359,6 +359,26 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
+  "Bed": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1.0,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "RimWorld",
+    "KarmaType": null
+  },
   "DoubleBed": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -21160,7 +21180,7 @@
     "KarmaType": null
   },
   "DankPyon_Headgear_Hood": {
-    "CustomName": "hood",
+    "CustomName": "hoodd",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,

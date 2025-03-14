@@ -103,6 +103,12 @@
       "price": 1967
     },
     {
+      "abr": "bed",
+      "category": "Furniture",
+      "defname": "Bed",
+      "price": -10
+    },
+    {
       "abr": "doublebed",
       "category": "Furniture",
       "defname": "DoubleBed",
@@ -12778,7 +12784,7 @@
       "abr": "ancientcrate",
       "category": "Misc",
       "defname": "VME_AncientCrate",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientdisplaybank",
@@ -12904,7 +12910,7 @@
       "abr": "ancientmilitarycrate",
       "category": "Misc",
       "defname": "VME_AncientMilitaryCrate",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientnavbeacon",
@@ -13678,13 +13684,13 @@
       "abr": "crate",
       "category": "Furniture",
       "defname": "ReelStorageWoodCrate",
-      "price": 206
+      "price": -10
     },
     {
       "abr": "cratestack",
       "category": "Furniture",
       "defname": "ReelStorageLargeWoodCrate",
-      "price": 825
+      "price": -10
     },
     {
       "abr": "foodbasket",

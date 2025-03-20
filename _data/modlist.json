@@ -102,12 +102,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Core",
-    "steamId": "2038000893",
-    "version": "2.6.2.0"
-  },
-  {
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
@@ -148,6 +142,12 @@
     "name": "[SYR] Processor Framework",
     "steamId": "3210544395",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Taranchuk, Sarg Bjornson and Oracle of Thessia",
+    "name": "Vanilla Factions Expanded - Medieval 2",
+    "steamId": "3444347874",
+    "version": "1.0.6.0"
   },
   {
     "author": "SirLalaPyon",
@@ -432,12 +432,6 @@
     "version": null
   },
   {
-    "author": "Epicguru",
-    "name": "Melee Animation",
-    "steamId": "2944488802",
-    "version": "1.0.0+46a9740cb50a3dad6d14d360704a585040167a04"
-  },
-  {
     "author": "Neceros (Original) and Chris",
     "name": "Metal Don't Burn (UNOFFICIAL 1.4 PATCH)",
     "steamId": null,
@@ -520,12 +514,6 @@
     "name": "ReBuild: Doors and Corners",
     "steamId": "3262718980",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Replace Stuff",
-    "steamId": "1372003680",
-    "version": "1.1.0.0"
   },
   {
     "author": "ferny",
@@ -780,22 +768,10 @@
     "version": null
   },
   {
-    "author": "Roolo",
-    "name": "Dual Wield",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Nikolas Makarov",
     "name": "Crimson - Berry Desserts",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Keepercraft",
-    "name": "RimKeeper - Wild Animal Procreation",
-    "steamId": "3259367736",
-    "version": "1.0.6"
   },
   {
     "author": "Mlie",
@@ -1010,6 +986,42 @@
   {
     "author": "Zaljerem",
     "name": "Majestic Foliage - Djeeshka's CMT Retexture (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ElderSign",
+    "name": "DBH for Medieval",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Serek512",
+    "name": "Fantasy Quest Rewards Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy: Medieval Overhaul Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits: Medieval Talents",
+    "steamId": "1916352291",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirVan",
+    "name": "Dark Ages : Medieval Tools",
+    "steamId": "3028566550",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Serek512",
+    "name": "Misc. Training Medieval Retexture",
     "steamId": null,
     "version": null
   }
